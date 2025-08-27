@@ -1,0 +1,7 @@
+chromadb==1.0.20
+numpy==2.3.2
+protobuf==6.32.0
+PyPDF2==3.0.1
+sentence_transformers==5.1.0
+transformers==4.55.4
+google_generativeai
