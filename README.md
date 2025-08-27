@@ -1,6 +1,6 @@
 # RAG_Project
 
-###Introductory project for Agentic AI implementations
+### Introductory project for Agentic AI implementations
 
 For running this project, you would require a (Gemini API key)[https://aistudio.google.com/apikey].
 Setup the API key as an environment variable in you .env file by running
